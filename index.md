@@ -644,6 +644,7 @@ Signed,
 - Soren L. Hansen
 - Srayan Jana
 - Sriram Ramkrishna
+- Sruthi Chandran (Debian Developer)
 - Starchy Grant (EFF, signing in personal capacity)
 - Stefan Crain
 - Stephane Graber (LXC, former Ubuntu Technical Board member)
